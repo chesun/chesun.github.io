@@ -19,6 +19,13 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Che Sun
+
+header_pages:
+  - index.md
+  - research.md
+  - cv.md
+  - extras.md
+
 email: ucsun@ucdavis.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Economics PhD Candidate at University of California, Davis.
@@ -28,6 +35,8 @@ twitter_username: che_sun
 github_username:  chesun
 
 markdown: GFM
+
+google_analytics: UA-NNNNNNNN-N
 
 # Build settings
 theme: minima
