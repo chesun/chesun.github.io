@@ -10,7 +10,7 @@ title: Extras
 I am an avid photographer. I love landscape photography the most, but when I can't
 travel, I will also shoot personal projects in my local areas. My photographs
 cover both wild and human-altered landscapes, and I shoot both digital and film.
-- [My photography portfolio](https:/chesun.org)
+- [My photography portfolio](https://chesun.org)
 - [Personal projects shot on film](https://www.chesun.org/analog-anthology)
 
 I am also a cyclist who rides road and gravel. Feel free to check out my
