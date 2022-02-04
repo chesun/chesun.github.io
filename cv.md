@@ -6,5 +6,6 @@ layout: default
 title: CV
 ---
 
-
-<embed src="./assets/CV_Che.pdf" width="1000" height="1000" type="application/pdf" />
+<object data="./assets/CV_Che.pdf" type="application/pdf" frameborder="0" width="100%" height="600px" style="padding: 20px;">
+  <embed src="./assets/CV_Che.pdf" width="100%" height="100%" type="application/pdf" />
+</object>
