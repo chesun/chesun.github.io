@@ -11,20 +11,3 @@ title: CV
 </object> -->
 
 <iframe src="https://docs.google.com/viewer?url=https://github.com/chesun/chesun.github.io/blob/42d734432142f3a72b3fbfc12235c660dbf2afdf/assets/CV_Che.pdf?pid=explorer&efh=false&a=v&chrome=false&embedded=true" width="400px" height="300px"  />
-
-
-<div id="adobe-dc-view" style="height: 360px; width: 500px;"></div>
-<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
-<script type="text/javascript">
-  document.addEventListener("adobe_dc_view_sdk.ready", function(){
-    var adobeDCView = new AdobeDC.View({clientId: "<YOUR_CLIENT_ID>", divId: "adobe-dc-view"});
-    adobeDCView.previewFile({
-      content:{ location:
-        { url: "https://documentcloud.adobe.com/view-sdk-demo/PDFs/Bodea%20Brochure.pdf"}},
-      metaData:{fileName: "Bodea Brochure.pdf"}
-    },
-    {
-      embedMode: "SIZED_CONTAINER"
-    });
-  });
-</script>
