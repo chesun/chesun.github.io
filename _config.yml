@@ -36,7 +36,7 @@ url: "https://chesun.github.io" # the base hostname & protocol for your site, e.
 twitter_username: che_sun
 github_username:  chesun
 
-markdown: GFM
+markdown: kramdown
 
 google_analytics: UA-NNNNNNNN-N
 
