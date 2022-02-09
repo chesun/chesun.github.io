@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>http://localhost:4000/cv.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/extras.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/research.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/teaching.html</loc>
+</url>
+<url>
+<loc>http://localhost:4000/assets/CV_Che.pdf</loc>
+<lastmod>2022-02-03T23:48:02-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/assets/StudentEval_InstructorSummaries.pdf</loc>
+<lastmod>2022-01-31T10:33:53-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/google7bc2f2b4a4f1e8bb.html</loc>
+<lastmod>2022-02-03T00:24:58-08:00</lastmod>
+</url>
+</urlset>
