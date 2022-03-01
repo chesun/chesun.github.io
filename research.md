@@ -8,13 +8,7 @@ title: Research
 ## Work in Progress
 
 ### **Biased Belief Updating and the Persistence of Stereotypes**, with Anujit Chakraborty
-We study whether gender stereotype influences belief updating on stereotypical beliefs about
-others. Subjects perform belief updating tasks in a gender-stereotypical domain (math) and a
-stereotype-irrelevant, value neutral domain. We experimentally assign each subject a series 6 of
-i.i.d. signals that are noisy but informative. We observe their prior and elicit updated posteriors
-after they receive each new signal. Our experimental design allows for precise estimation of the
-parameters of the subjects’ belief updating rule and a clean structural test against the Bayesian
-baseline. We contribute to the literature by uncovering a potential channel of stereotype persistence and experimentally identify this channel separately from the other heuristics and biases that result in non-Bayesian updating.
+We experimentally study whether gender stereotype affect belief updating on beliefs about others. Subjects perform belief updating tasks in four gender-stereotypical domains (math, sports knowledge, verbal, emotional intelligence) and one gender neutral domain (crosswords). We observe their prior, experimentally assign each subject a noisy but informative signal in each domain, and elicit updated posteriors after they receive each new signal. Comparing their belief updating between gender stereotypical domains and gender neutral domains establishes the effect of gender stereotypes on belief updating. Our design allows for precise estimation of the parameters of the subjects' belief updating rule and a clean structural test against the Bayesian baseline. We contribute to the literature by uncovering a potential channel of stereotype persistence and experimentally identify this channel separately from the other heuristics and biases that result in non-Bayesian updating.
 
 ### **Behavioral Incentive Compatibility of BDM Belief Elicitation**
 Recent evidence has shown that theoretical incentive compatibility of belief elicitation mechanism doesn’t always translate into the lab and revealing incentives might negatively impact
