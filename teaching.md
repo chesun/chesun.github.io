@@ -8,14 +8,19 @@ title: Teaching
 ---
 
 ## Teaching Philosophy
-My teaching philosophy is centered around providing an active learning
-experience for students and enabling them to not only understand,
-but also to critically examine and apply their knowledge to real-world situations.
-I utilize a problem-solving based approach that is grounded in the real world
-markets and institutions to stimulate critical thinking by students, and encourage
-them to take on a proactive role in their own learning experience. I also employ
-small group collaborations in and out of the classroom to further facilitate an
-interactive and proactive learning process.
+I believe that a truly productive learning experience is one where students are encourage
+to take a proactive role in the learning process and think critically, and apply their
+knowledge by problem solving. Therefore, my teaching philosophy is centered around an
+interactive experience in the classroom that stimulates active learning and proactive thinking. I believe the act of
+thinking proactively and problem solving will help retain knowledge better and cultivate
+critical, scientific thinking in students. I frequently
+pose questions involving new concepts, encourage students to engage in collaborative learning with their peers to problem solve, and walk through the process step-by-step with them while
+breaking it down in a digestible manner using economic intuition. I will also incorporate relevant real-world examples
+to illustrate economic concepts, and demonstrate their implications for policy and
+institutions, which I hope will help my students become better citizens. The effectiveness
+of my teaching philosophy is demonstrated by the positive student evaluations, and
+I am constantly learning from my students about what works and using their feedback
+to improve my teaching.
 
 ## Teaching Experience
 
@@ -30,8 +35,7 @@ interactive and proactive learning process.
 
 ### For a complete history of student teaching evaluations from my time teaching at UC Davis please <a href="https://chesun.github.io/assets/StudentEval_InstructorSummaries.pdf" target="_blank">click here.</a>
 
-"Che was a great TA, I'm really surprised it was his first time teaching! He was very helpful in going over the main concepts of the course and clarifying what we needed to know for midterms
-or what we did wrong on midterms. He is very approachable and a cool person to talk to. He was also helpful in office hours. Che brought energy to discussions even though they were at
+"Che was a great TA, I'm really surprised it was his first time teaching! He was very helpful in going over the main concepts of the course and clarifying what we needed to know for midterms or what we did wrong on midterms. He is very approachable and a cool person to talk to. He was also helpful in office hours. Che brought energy to discussions even though they were at
 6pm and was always smiling! Thank you for a great quarter Che! :)"
 
 "Che has been an amazing TA for us, more than we could ever ask. He is always willing to help and really care about our success in class. We are all super grateful we have him as our TA."
