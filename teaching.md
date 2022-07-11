@@ -31,11 +31,11 @@ to improve my teaching.
  - Economics of International Immigration
 
 
-## Excerpts from Student Evaluations
+## Student Evaluations
 
 ### For a complete history of student teaching evaluations from my time teaching at UC Davis please <a href="https://chesun.github.io/assets/StudentEval_InstructorSummaries.pdf" target="_blank">click here.</a>
 
-"Che was a great TA, I'm really surprised it was his first time teaching! He was very helpful in going over the main concepts of the course and clarifying what we needed to know for midterms or what we did wrong on midterms. He is very approachable and a cool person to talk to. He was also helpful in office hours. Che brought energy to discussions even though they were at
+<!--- "Che was a great TA, I'm really surprised it was his first time teaching! He was very helpful in going over the main concepts of the course and clarifying what we needed to know for midterms or what we did wrong on midterms. He is very approachable and a cool person to talk to. He was also helpful in office hours. Che brought energy to discussions even though they were at
 6pm and was always smiling! Thank you for a great quarter Che! :)"
 
 "Che has been an amazing TA for us, more than we could ever ask. He is always willing to help and really care about our success in class. We are all super grateful we have him as our TA."
@@ -55,4 +55,4 @@ make sure students questions were reviewed and looked at."
 
 "Che is the best. TA of the year or something."
 
-"I appreciate Che's willingness to help in office hours. He always helped clarify any subjects or material I had questions on. He's a great TA."
+"I appreciate Che's willingness to help in office hours. He always helped clarify any subjects or material I had questions on. He's a great TA." --->
