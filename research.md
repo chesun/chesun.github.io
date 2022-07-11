@@ -24,4 +24,3 @@ the deviations between actual and Bayesian posteriors to establish the effects o
 
 
 ### **Diversity in Schools: Immigrants and the Long-Run Outcomes of US-Born Students**, with Briana Ballis and Derek Rury
-*Data access request approved by Texas Education Agency*
