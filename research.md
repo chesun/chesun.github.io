@@ -1,6 +1,11 @@
 ---
 layout: default
 title: Research
+<style>
+h2 {
+    margin: 0;
+}
+</style>
 ---
 
 

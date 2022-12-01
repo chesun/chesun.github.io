@@ -24,6 +24,10 @@ to improve my teaching.
 
 ## Teaching Experience
 
+### Instructor at University of California, Davis
+
+  - Principles of Microeconomics
+
 ### Teaching Assistant at University of California, Davis
  - Principles of Microeconomics
  - Money and Banking
