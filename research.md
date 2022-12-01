@@ -13,7 +13,7 @@ We experimentally study whether gender stereotype affect belief updating on beli
 
 ### **Behavioral Incentive Compatibility of BDM Belief Elicitation**
 
-[<a href="https://chesun.github.io/assets/research/bdm_incentive_compatibility_esa.pdf" target="_blank">slides</a>]
+[<a href="https://chesun.github.io/assets/research/bdm_incentive_compatibility_esa.pdf" target="_blank">Slides</a>]
 
 Recent evidence has shown that revealing incentives during belief elicitation might negatively impact truth telling, even if the elicitation mechanism is theoretically incentive compatible. In this project, I study the effect of quantitative incentive information on truth telling in the Becker-DeGroot-Marschak (BDM) belief elicitation mechanism. Subjects guess the probability of selecting a red urn out of 10 urns of colors red and blue, where the number of urns of each color is known. Results show that in the treatment where subjects are shown full quantitative incentives, the rate of false reports is around 10 percentage points higher than in the treatment where no quantitative incentives are shown. This higher rate of false reports is driven by subjects who misunderstood the incentives. Given that BDM belief elicitation is particularly difficult to explain and implement, this result shows a potentially simpler and more practical way of eliciting beliefs while maintaining quality of data.
 
