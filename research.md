@@ -24,6 +24,8 @@ We experimentally study whether gender stereotype affect belief updating on beli
 
 ### **Diversity in Schools: Immigrants and the Long-Run Outcomes of US-Born Students** <br><sup>(with Briana Ballis and Derek Rury) </sup>
 
+Awarded the Russell Sage Foundation Research Grant for the Race, Ethnicity, and Immigration Program in March 2023.
+
 ### **The Impact of School Quality on Postsecondary Success: Evidence in the Era of Common Core** <br><sup>(with Scott Carrell, Michal Kurlaender, Paco Martorell, and Matthew Naven)</sup>
 
 ### **Gender Stereotypes and Student Persistence in STEM Majors** <br><sup>(with Kalyani Chowdury and Derek Rury)</sup>
