@@ -26,13 +26,13 @@ to improve my teaching.
 
 ### Instructor at University of California, Davis
 
-  - Principles of Microeconomics
+  - Principles of Microeconomics, Summer 2022 & Summer 2023
 
 ### Teaching Assistant at University of California, Davis
- - Principles of Microeconomics
- - Money and Banking
- - Economics of Labor Markets
- - Economics of International Immigration
+ - Principles of Microeconomics, Spring 2020
+ - Money and Banking, Winter 2020
+ - Economics of Labor Markets, Summer 2020
+ - Economics of International Immigration, Fall 2019
 
 
 ## Student Evaluations
