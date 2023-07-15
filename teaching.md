@@ -37,26 +37,21 @@ to improve my teaching.
 
 ## Student Evaluations
 
-### For a complete history of student teaching evaluations from my time teaching at UC Davis please <a href="https://chesun.github.io/assets/StudentEval_InstructorSummaries.pdf" target="_blank">click here.</a>
 
-<!--- "Che was a great TA, I'm really surprised it was his first time teaching! He was very helpful in going over the main concepts of the course and clarifying what we needed to know for midterms or what we did wrong on midterms. He is very approachable and a cool person to talk to. He was also helpful in office hours. Che brought energy to discussions even though they were at
-6pm and was always smiling! Thank you for a great quarter Che! :)"
+Here are some excerpts from student comments in teaching evaluations. For a complete history of student teaching evaluations from my time teaching at UC Davis please <a href="https://chesun.github.io/assets/StudentEval_InstructorSummaries.pdf" target="_blank">click here.</a>
 
-"Che has been an amazing TA for us, more than we could ever ask. He is always willing to help and really care about our success in class. We are all super grateful we have him as our TA."
 
-"Che explained topics from lecture with more depth and it helped retain and better understand the material."
+```
+"Christina was amazing! Great at presenting complex information in an easy manner."
 
-"I attend TA Che Sun's sections this quarter and benefit a lot from them . He is patient and gives clear and effective sections. In most cases, he will summarize the main points from lectures,
-and when it comes to exams, he helps us to do some preparation or analysis. He knows all the knowledge covered in classes well and explains every point in detail, and his notes are clear
-and well organized, which is easy to follow. During these sections, he frequently stops and asks for our feedback and has plenty of interactions with us."
+"Christina was a wonderful TA! She evaluated our understanding of the course material and our needs from discussion at the end of every discussion section and adapted as such to give us the best experience possible. I attended almost all of the sections and they proved to be very helpful for the homework and for the exams."
 
-"The TA was very knowledgeable and was able to take the topics and break it down into digestible information for the student. He was also good at working with the professor during lecture to
-make sure students questions were reviewed and looked at."
+"They were helpful and always available when students needed."
 
-"Good economist and instructor."
+"Christina was great! She explained problems very well in discussion and was eager for feedback as to better help us. They made incredible handouts that were very helpful."
 
-"The TA was helpful in discussion and I think he provided great examples."
+"... I appreciate that there was always room during class to ask questions."
 
-"Che is the best. TA of the year or something."
+"... She is active in replying the email and answering questions in class. For another, her homework focus on motivating students' economic logic. She encourages students to use their economic knowledge in their life, not limited to ecomonic questions. ..."
 
-"I appreciate Che's willingness to help in office hours. He always helped clarify any subjects or material I had questions on. He's a great TA." --->
+```
