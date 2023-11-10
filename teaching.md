@@ -24,11 +24,12 @@ to improve my teaching.
 
 ## Teaching Experience
 
-### Instructor at University of California, Davis
+### Instructor of Record at University of California, Davis
 
   - Principles of Microeconomics, Summer 2022 & Summer 2023
 
 ### Teaching Assistant at University of California, Davis
+ - Behavioral Economics, Spring 2023
  - Principles of Microeconomics, Spring 2020
  - Money and Banking, Winter 2020
  - Economics of Labor Markets, Summer 2020

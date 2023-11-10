@@ -10,11 +10,9 @@ layout: default
 ## Welcome!
 
 I am a PhD candidate in Economics at University of California, Davis. My main
-research area is behavioral economics. My current research studies the cognitive
+research areas are behavioral and experimental economics with a secondary focus on the economics of education. My current research studies the cognitive
 biases that influence belief formation and updating, with a focus on their
-implications on stereotyping and discrimination. My work also spans applied
-microeconomics, in particular the economics of education. I employ both lab
-and field experiments in my research.
+implications on stereotyping and discrimination. My work in education include studying long-run value added of public high schools, as well as the experience of students navigating the financial aid system, with a focus on the challenges faced by LGBTQ+ students. 
 
 
 ## Research Interests
