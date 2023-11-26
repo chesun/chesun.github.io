@@ -31,7 +31,7 @@ header_pages:
 
 email: ucsun@ucdavis.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Economics PhD Candidate at University of California, Davis studying behavioral economics.
+  Economics PhD Candidate at University of California, Davis studying behavioral economics, experimental economics, and the economics of education.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://christinasun.net" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: che_sun
