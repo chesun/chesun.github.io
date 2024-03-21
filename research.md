@@ -32,7 +32,7 @@ Using a longitudinal panel of students’ standardized test scores and college e
 
 ## Policy Reports
 
-### **Transition to College: Voices from the Class of 2023.** *Policy Analysis for California Education* <br><sup> (with Michal Kurlaender, Alexandria Hurtt, and Baiyu Zhou)</sup> 
+### **[Transition to College: Voices from the Class of 2023.** *Policy Analysis for California Education](https://edpolicyinca.org/publications/transition-college)* <br><sup> (with Michal Kurlaender, Alexandria Hurtt, and Baiyu Zhou)</sup> 
 
 
 
