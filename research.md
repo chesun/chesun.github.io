@@ -18,9 +18,8 @@ Recent evidence has shown that revealing incentives during belief elicitation mi
 
 ### **Diversity in Schools: Immigrants and the Long-Run Outcomes of US-Born Students** <br><sup>(with Briana Ballis and Derek Rury) </sup>
 
-Awarded the Russell Sage Foundation Research Grant for the Race, Ethnicity, and Immigration Program in March 2023.
+Data access from Texas Education Agency approved in 2022. Awarded the Russell Sage Foundation Research Grant for the Race, Ethnicity, and Immigration Program in March 2023. Data analysis currently in progress.
 
-We use <a href="http://geoservices.tamu.edu">Texas A&M Geoservices Services</a> for our geocoding.
 
 
 ## Working Papers
