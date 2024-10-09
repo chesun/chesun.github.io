@@ -8,19 +8,13 @@ title: Teaching
 ---
 
 ## Teaching Philosophy
-I believe that a truly productive learning experience is one where students are encourage
-to take a proactive role in the learning process and think critically, and apply their
-knowledge by problem solving. Therefore, my teaching philosophy is centered around an
-interactive experience in the classroom that stimulates active learning and proactive thinking. I believe the act of
-thinking proactively and problem solving will help retain knowledge better and cultivate
-critical, scientific thinking in students. I frequently
-pose questions involving new concepts, encourage students to engage in collaborative learning with their peers to problem solve, and walk through the process step-by-step with them while
-breaking it down in a digestible manner using economic intuition. I will also incorporate relevant real-world examples
-to illustrate economic concepts, and demonstrate their implications for policy and
-institutions, which I hope will help my students become better citizens. The effectiveness
-of my teaching philosophy is demonstrated by the positive student evaluations, and
-I am constantly learning from my students about what works and using their feedback
-to improve my teaching.
+My teaching philosophy is rooted in the belief that every student belongs in the classroom and has the potential to succeed. I view my role as a teacher as one of guiding students toward realizing their own potential by helping them engage with learning in a way that empowers them to think independently and become lifelong learners. To achieve this, I focus on fostering an inclusive and supportive learning environment where all students feel welcome and valued.
+
+One of my primary goals is to make economic theory accessible and relevant by connecting concepts to real-world contexts. This helps students see how abstract ideas can be applied practically, allowing them to grasp the big picture and appreciate the relevance of what they are learning. By illustrating the importance of economics in everyday life, I aim to inspire curiosity and critical thinking.
+
+As an educator, I believe my role is to guide students to learn how to learn, through the critical examination their learned knowledge and cultivation of critical thinking skills.  By developing assignments and exams that encourage deeper analysis and problem-solving, I help students develop critical thinking skills that will serve them not only in their academic journey, but also in their personal and civic life. Ultimately, my teaching philosophy is driven by the desire to cultivate an environment where all students can thrive and develop the tools they need to succeed beyond the classroom.
+
+To see my full Teaching Statement, please <a href="assets/Teaching Statement.pdf" target="_blank">click here.</a>
 
 ## Teaching Experience
 

@@ -9,6 +9,11 @@ title: Research
 
 ## Work in Progress
 
+### **Discrimination, Self Justification, and Belief Distortion**
+
+[<ins><a href="https://chesun.github.io/assets/research/belief_distortion_discrimination.pdf" target="_blank">Slides</a></ins>]
+
+
 ### **Behavioral Incentive Compatibility of BDM Belief Elicitation**
 
 [<ins><a href="https://chesun.github.io/assets/research/bdm_incentive_compatibility_esa.pdf" target="_blank">Slides</a></ins>]
