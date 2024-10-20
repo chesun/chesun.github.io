@@ -11,8 +11,6 @@ title: Research
 
 ### **Discrimination, Self Justification, and Belief Distortion**
 
-[<ins><a href="https://chesun.github.io/assets/research/belief_distortion_discrimination.pdf" target="_blank">Slides</a></ins>]
-
 
 ### **Behavioral Incentive Compatibility of BDM Belief Elicitation**
 
