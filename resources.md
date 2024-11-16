@@ -13,5 +13,5 @@ title: Resources
   <embed src="./assets/resources/ucdavis_theme_test.pdf" style="overflow: scroll;" width="80%" height="90%" type="application/pdf" />
 </object>
 
-Get it <a href="https://github.com/chesun/latex_templates/tree/main/ucdavis_beamer_theme" target="_blank">here.</a>
+Get it <a href="https://github.com/chesun/latex_templates/tree/main/ucdavis_beamer_theme_xelatex" target="_blank">here.</a>
 
