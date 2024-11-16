@@ -9,7 +9,7 @@ title: Resources
 <style>
     .pdf {
         width: 100%;
-        aspect-ratio: 4 / 3;
+        aspect-ratio: 16 / 9;
     }
 
     .pdf {
@@ -23,7 +23,7 @@ title: Resources
 ## A LaTeX Beamer Template for UC Davis
 <a href="https://chesun.github.io/assets/resources/ucdavis_theme_test.pdf" target="_blank">Here's what it looks like.</a>
 
-<object data="./assets/resources/ucdavis_theme_test.pdf" class="pdf"        width="100%" height="800">
+<object data="./assets/resources/ucdavis_theme_test.pdf" class="pdf"        width="100%" height="90%">
 </object>
 
 
