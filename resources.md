@@ -6,12 +6,27 @@ layout: default
 title: Resources
 ---
 
+<style>
+    .pdf {
+        width: 100%;
+        aspect-ratio: 4 / 3;
+    }
+
+    .pdf {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+</style>
+
 ## A LaTeX Beamer Template for UC Davis
 <a href="https://chesun.github.io/assets/resources/ucdavis_theme_test.pdf" target="_blank">Here's what it looks like.</a>
 
-<object data="./assets/resources/ucdavis_theme_test.pdf" type="application/pdf" frameborder="0" width="100%" height="90%" style="padding: 20px;">
-  <embed src="./assets/resources/ucdavis_theme_test.pdf" style="overflow: scroll;" width="80%" height="90%" type="application/pdf" />
+<object data="./assets/resources/ucdavis_theme_test.pdf" class="pdf"        width="100%" height="800">
 </object>
+
+
 
 Get it <a href="https://github.com/chesun/latex_templates/tree/main/ucdavis_beamer_theme_xelatex" target="_blank">here.</a>
 
