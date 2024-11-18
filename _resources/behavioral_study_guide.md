@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-name: Study Guide for Behavioral Economics
+title: Study Guide for Behavioral Economics
 ---
 
 <style>

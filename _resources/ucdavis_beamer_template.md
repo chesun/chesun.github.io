@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-name: UC Davis Beamer Template
+title: UC Davis Beamer Template
 ---
 
 <style>
