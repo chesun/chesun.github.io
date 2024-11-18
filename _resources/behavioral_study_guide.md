@@ -20,6 +20,8 @@ title: Study Guide for Behavioral Economics
 
 </style>
 
+### A Study Guide for Behavioral Economics
+
 Here is a study guide that I made for Professor Chakraborty's Behavioral Economics course at UC Davis while I was the TA. Disclaimer: All mistakes are mine, please use your own judgment.
 
 <a href="https://chesun.github.io/assets/resources/behavioral_study_guide.pdf" target="_blank">Click here to open in a new window.</a>
