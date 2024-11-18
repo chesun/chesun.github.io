@@ -7,3 +7,12 @@ title: Resources
 ---
 
 Here are some resources I created that you may find useful. 
+
+{% for resource in site.resources %}
+  <h2>
+    <a href="{{ resource.url }}">
+      {{ resource.title }} 
+    </a>
+  </h2>
+  <p>{{ resource.content | markdownify }}</p>
+{% endfor %}
