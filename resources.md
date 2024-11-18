@@ -6,7 +6,7 @@ layout: default
 title: Resources
 ---
 
-Here are some resources I created that you may find useful. 
+Here are some resources I created that you may find useful. Feel free to use & share them!
 
 {% for resource in site.resources %}
   <h2>
