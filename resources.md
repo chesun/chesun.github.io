@@ -14,5 +14,5 @@ Here are some resources I created that you may find useful.
       {{ resource.title }} 
     </a>
   </h2>
-  <p>{{ resource.content | markdownify }}</p>
+  <!-- <p>{{ resource.content | markdownify }}</p> -->
 {% endfor %}
