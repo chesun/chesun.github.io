@@ -30,6 +30,10 @@ header_pages:
   - resources.md
   - extras.md
 
+collections:
+  resources:
+    output: true
+
 email: ucsun@ucdavis.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Economics PhD Candidate at University of California, Davis studying behavioral economics, experimental economics, and the economics of education.
