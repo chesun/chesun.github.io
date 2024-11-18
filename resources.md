@@ -27,7 +27,7 @@ Here are some resources I created that you may find useful.
 ## A LaTeX Beamer Template for UC Davis
 <a href="https://chesun.github.io/assets/resources/ucdavis_theme_test.pdf" target="_blank">Here's what it looks like.</a>
 
-<object data="https://chesun.github.io/assets/resources/ucdavis_theme_test.pdf" class="pdf"        width="90%" height="90%">
+<object data="./assets/resources/ucdavis_theme_test.pdf" class="pdf"        width="90%" height="90%">
 </object>
 
 
