@@ -9,7 +9,7 @@ title: Study Guide for Behavioral Economics
 <style>
     .pdf {
         width: 100%;
-        aspect-ratio: 16 / 9;
+        aspect-ratio: 9 / 16;
     }
 
     .pdf {
