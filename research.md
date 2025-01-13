@@ -9,7 +9,6 @@ title: Research
 
 ## Work in Progress
 
-### **Discrimination, Self Justification, and Belief Distortion**
 
 
 ### **Behavioral Incentive Compatibility of BDM Belief Elicitation**
