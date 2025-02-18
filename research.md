@@ -10,7 +10,6 @@ title: Research
 ## Work in Progress
 
 
-
 ### **Behavioral Incentive Compatibility of BDM Belief Elicitation**
 
 [<ins><a href="https://chesun.github.io/assets/research/bdm_incentive_compatibility_esa.pdf" target="_blank">Slides</a></ins>]
@@ -38,4 +37,6 @@ Using a longitudinal panel of students’ standardized test scores and college e
 ### **<a href="https://edpolicyinca.org/publications/transition-college" target="blank">Transition to College: Voices from the Class of 2023.</a>** *Policy Analysis for California Education* <br><sup> (with Michal Kurlaender, Alexandria Hurtt, and Baiyu Zhou)</sup> 
 
 
+
+### **<a href="https://c2c.ca.gov/wp-content/uploads/2025/02/C2C-Student-Experience-Report-2024-Academic-Year.pdf" target="blank"> California Cradle-to-Career Data System 2024 Student Experience Report </a> <br><sup> (with Jacob Jackson, Michal Kurlaender, Stephanie Luna-Lopez, Judy Chan, and Elizabeth Pierotti)</sup> 
 
