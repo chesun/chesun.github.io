@@ -38,5 +38,5 @@ Using a longitudinal panel of students’ standardized test scores and college e
 
 
 
-### **<a href="https://c2c.ca.gov/wp-content/uploads/2025/02/C2C-Student-Experience-Report-2024-Academic-Year.pdf" target="blank"> California Cradle-to-Career Data System 2024 Student Experience Report </a> <br><sup> (with Jacob Jackson, Michal Kurlaender, Stephanie Luna-Lopez, Judy Chan, and Elizabeth Pierotti)</sup> 
+### **<a href="https://c2c.ca.gov/wp-content/uploads/2025/02/C2C-Student-Experience-Report-2024-Academic-Year.pdf" target="blank"> California Cradle-to-Career Data System 2024 Student Experience Report </a>** <br><sup> (with Jacob Jackson, Michal Kurlaender, Stephanie Luna-Lopez, Judy Chan, and Elizabeth Pierotti)</sup> 
 

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+
+  {%- include head.html -%}
+<!-- In your _layouts/default.html head or in the gallery template head -->
+<link rel="stylesheet" href="{{ '/assets/css/masonry.css' | relative_url }}">
+
+
+  <body>
+
+    {%- include header.html -%}
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    {%- include footer.html -%}
+
+
+  <!-- Inside _layouts/default.html or wherever your scripts go -->
+  <script src="/assets/js/imagesloaded.pkgd.js"></script>
+
+  <script src="{{ '/assets/js/masonry.pkgd.js' | relative_url }}"></script>
+  <script src="{{ '/assets/js/init-masonry.js' | relative_url }}"></script>
+
+  </body>
+
+
+</html>
