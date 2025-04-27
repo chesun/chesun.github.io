@@ -4,11 +4,12 @@
 
 layout: page
 title: Teaching
-permalink: /teaching/
 toc: true
+permalink: /teaching/
 ---
 
 ## Teaching Philosophy
+
 My teaching philosophy is rooted in the belief that every student belongs in the classroom and has the potential to succeed. I view my role as a teacher as one of guiding students toward realizing their own potential by helping them engage with learning in a way that empowers them to think independently and become lifelong learners. To achieve this, I focus on fostering an inclusive and supportive learning environment where all students feel welcome and valued.
 
 One of my primary goals is to make economic theory accessible and relevant by connecting concepts to real-world contexts. This helps students see how abstract ideas can be applied practically, allowing them to grasp the big picture and appreciate the relevance of what they are learning. By illustrating the importance of economics in everyday life, I aim to inspire curiosity and critical thinking.
@@ -24,6 +25,7 @@ As an educator, I believe my role is to guide students to learn how to learn, th
   - Principles of Microeconomics, Summer 2022 & Summer 2023
 
 ### Teaching Assistant at University of California, Davis
+
  - Behavioral Economics, Spring 2023
  - Principles of Microeconomics, Spring 2020
  - Money and Banking, Winter 2020
