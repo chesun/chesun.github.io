@@ -1,0 +1,33 @@
+/* 
+  This sets each .grid-item to 30% width of the .grid container. 
+  Three items will typically fit per row (depending on screen size). 
+*/
+.grid {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* For vertical centering */
+  border: 1px solid black; /* For visualization */
+}
+
+.grid-item {
+    width: 30%;
+    margin-bottom: 1rem;       /* some spacing between items */
+    box-sizing: border-box;    /* ensures padding/margin are counted nicely */
+  }
+  
+  /* 
+    For narrower screens, you can use media queries to reduce column count 
+    by giving .grid-item a bigger width or 100% for single column.
+  */
+  @media (max-width: 800px) {
+    .grid-item {
+      width: 45%;  /* so maybe 2 columns on medium screens */
+    }
+  }
+  
+  @media (max-width: 500px) {
+    .grid-item {
+      width: 100%; /* 1 column on mobile */
+    }
+  }
+  
