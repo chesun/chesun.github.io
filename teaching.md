@@ -5,6 +5,7 @@
 layout: page
 title: Teaching
 permalink: /teaching/
+toc: true
 ---
 
 ## Teaching Philosophy
