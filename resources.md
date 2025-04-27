@@ -4,7 +4,7 @@
 
 layout: page
 title: Resources
-permalink: resources
+permalink: /resources/
 ---
 
 Here are some resources I created that you may find useful. Feel free to use & share them!

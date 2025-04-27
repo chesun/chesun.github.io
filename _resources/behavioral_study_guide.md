@@ -4,7 +4,7 @@
 
 layout: page
 title: Study Guide for Behavioral Economics
-permalink: resources/behavioral-study-guide
+permalink: /resources/behavioral-study-guide/
 ---
 
 <style>

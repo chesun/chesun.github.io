@@ -4,7 +4,7 @@
 
 layout: page
 title: UC Davis Beamer Template
-permalink: resources/ucdavis-beamer-template
+permalink: /resources/ucdavis-beamer-template/
 ---
 
 <style>
