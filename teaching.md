@@ -2,9 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+layout: page
 title: Teaching
-
+permalink: teaching
 ---
 
 ## Teaching Philosophy
@@ -14,7 +14,7 @@ One of my primary goals is to make economic theory accessible and relevant by co
 
 As an educator, I believe my role is to guide students to learn how to learn, through the critical examination their learned knowledge and cultivation of critical thinking skills.  By developing assignments and exams that encourage deeper analysis and problem-solving, I help students develop critical thinking skills that will serve them not only in their academic journey, but also in their personal and civic life. Ultimately, my teaching philosophy is driven by the desire to cultivate an environment where all students can thrive and develop the tools they need to succeed beyond the classroom.
 
-<a href="assets/Teaching Statement.pdf" target="_blank">Teaching Statement</a>
+[<ins><a href="assets/Teaching Statement.pdf" target="_blank">Teaching Statement</a></ins>]
 
 ## Teaching Experience
 

@@ -22,13 +22,6 @@ title:  Christina Sun
 tagline: Economics PhD Candidate at UC Davis
 
 
-header_pages:
-  - index.md
-  - research.md
-  - teaching.md
-  - cv.md
-  - resources.md
-  - extras/index.md
 
 collections:
   resources:
@@ -40,18 +33,33 @@ description: >- # this means to ignore newlines until "baseurl:"
   Economics PhD Candidate at University of California, Davis studying behavioral economics, experimental economics, and the economics of education.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://christinasun.net" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: che_sun
-github_username:  chesun
 
 markdown: kramdown
 
 google_analytics: UA-NNNNNNNN-N
 
 # Build settings
-theme: minima
+theme: bulma-clean-theme
+fixed_navbar: top
+footer_menu: footer_nav 
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-socials
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      head_custom: true
+      footer_custom: true
+
+
+social:
+  email: ucsun@ucdavis.edu
+  github: https://github.com/chesun
+  linkedin: https://linkedin.com/in/chesun1
 
 # Exclude from processing.
 # The following items will not be processed, by default.

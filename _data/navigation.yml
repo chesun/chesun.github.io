@@ -1,0 +1,13 @@
+- name: Research
+  link: /research/
+- name: Teaching
+  link: /teaching/
+- name: Resources
+  link: /resources/
+  dropdown: 
+    - name: Behavioral Econ Study Guide
+      link: /resources/behavioral-study-guide/
+    - name: UC Davis Beamer Template
+      link: /resources/ucdavis-beamer-template/
+- name: Extras
+  link: /extras/

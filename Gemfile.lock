@@ -15,6 +15,13 @@ GEM
       public_suffix (>= 2.0.2, < 6.0)
     base64 (0.2.0)
     bigdecimal (3.1.4)
+    bulma-clean-theme (0.14.0)
+      jekyll (>= 3.9, < 5.0)
+      jekyll-feed (~> 0.15)
+      jekyll-paginate (~> 1.1)
+      jekyll-seo-tag (~> 2.7)
+      jekyll-sitemap (~> 1.4)
+      kramdown-parser-gfm (~> 1.1)
     coffee-script (2.4.1)
       coffee-script-source
       execjs
@@ -158,6 +165,8 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
+    jekyll-socials (0.0.1)
+      jekyll (>= 3.6, < 5.0)
     jekyll-swiss (1.0.0)
     jekyll-theme-architect (0.2.0)
       jekyll (> 3.5, < 5.0)
@@ -265,10 +274,11 @@ PLATFORMS
   arm64-darwin-23
 
 DEPENDENCIES
+  bulma-clean-theme
   github-pages
   jekyll-feed (~> 0.12)
   jekyll-sitemap (~> 1.4.0)
-  minima (~> 2.5.1)
+  jekyll-socials
   tzinfo (~> 2.0)
   tzinfo-data
   wdm (~> 0.1.1)

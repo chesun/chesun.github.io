@@ -2,8 +2,9 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: default
+layout: page
 title: Resources
+permalink: resources
 ---
 
 Here are some resources I created that you may find useful. Feel free to use & share them!

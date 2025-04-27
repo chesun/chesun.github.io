@@ -2,6 +2,13 @@
   This sets each .grid-item to 30% width of the .grid container. 
   Three items will typically fit per row (depending on screen size). 
 */
+.grid {
+  display: flex;
+  justify-content: center;
+  align-items: center; /* For vertical centering */
+  border: 1px solid black; /* For visualization */
+}
+
 .grid-item {
     width: 30%;
     margin-bottom: 1rem;       /* some spacing between items */
