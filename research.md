@@ -47,9 +47,13 @@ Using a longitudinal panel of students’ standardized test scores and college e
 
 This brief examines the experiences of California high school seniors from the graduating class of 2023, offering insights into their preparation, plans, and concerns for college prior to enrollment. Drawing on results from a large-scale survey of seniors, the findings reveal important variation in students’ secondary school experiences and their plans for college, particularly by race/ethnicity and gender identity. As students’ experiences in high school influence concerns about their college futures, these results represent an important marker of what college going may look like for future graduating cohorts and can help policymakers and practitioners better understand the context of students’ postsecondary decisions and pathways.
 
-### **California Cradle-to-Career Data System 2024 Student Experience Report** <br><sup> (with Jacob Jackson, Michal Kurlaender, Stephanie Luna-Lopez, Judy Chan, and Elizabeth Pierotti)</sup> 
+### California Cradle-to-Career Data System 2024 Student Experience Report <br><sup> (with Jacob Jackson, Michal Kurlaender, Stephanie Luna-Lopez, Judy Chan, and Elizabeth Pierotti)</sup> 
 
 [<ins><a href="https://c2c.ca.gov/wp-content/uploads/2025/02/C2C-Student-Experience-Report-2024-Academic-Year.pdf" target="blank">Report</a></ins>]
 
 In spring 2024, the California Education Lab at the University of California, Davis, partnered with the California Cradle-to-Career Data System (C2C)
 and the California Student Aid Commission to document the experience of high school seniors. We document students' plans after high school, their  experiences with the FAFSA or CADAA and with college applications, their attitudes toward college, their experiences in high school, and their expectations for their college experience.
+
+### Applying for Financial Aid: Lessons from California's 2024 High School Seniors <br><sup> (with Jacob Jackson, Michal Kurlaender, Stephanie Luna-Lopez, Jessica Moldoff, and Ryan Fuller)</sup> 
+
+[<ins><a href="https://www.csac.ca.gov/sites/default/files/2025-04/csac_2024_survey_report.pdf">Report</a></ins>]
