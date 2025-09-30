@@ -9,17 +9,17 @@ toc: false
 
 ## Working Papers
 
-**Seeing is Believing? How Learning Modes Shape Belief Bias and Discrimination** (Job Market Paper)
+**Seeing is Believing? How Learning Modes Shape Belief Bias and Discrimination** (Job Market Paper, Draft Coming Soon)
 
 Why do biased beliefs persist even when accurate information is available? This paper shows that the endogenous nature of information acquisition systematically distorts beliefs. Through a combination of theory and experiment, I show that even when accurate information is available, individuals who can decide how much to learn and when to stop end up with systematically biased evidence that reinforces their existing belief bias. In contrast, when people acquire similar amounts of information but without the ability to control when to stop, their initial belief bias is significantly reduced after learning. The results identify a novel channel of persistent belief bias - the endogeneity of information acquisition - and point to exogenously structured learning as a powerful tool for reducing belief-based discrimination and designing effective information interventions.
 
-**Do Schools Matter? Measuring the Impact of California High Schools on Test Scores and Postsecondary Enrollment** <br><sup>(with Scott Carrell, Michal Kurlaender, Paco Martorell, and Matthew Naven)</sup>
+**Do Schools Matter? Measuring the Impact of California High Schools on Test Scores and Postsecondary Enrollment** (Under Review) <br><sup>(with Scott Carrell, Michal Kurlaender, Paco Martorell, and Matthew Naven)</sup> 
 
 Media: <ins><a href="https://www.educationnext.org/the-education-exchange-high-schools-matter-a-lot/" target="blank">Education Next</a></ins>
 
 We estimate high school impacts on test score performance, post-secondary enrollment, and the relationship between the two using administrative data on California high school students. We find that models using only standard controls for prior test scores and student demographics are biased (especially for college enrollment), but adding rich controls for peer, neighborhood, and family quality eliminates most of this bias. Our results suggest that there is substantial variation in quality across schools in both test scores and college enrollment. In our preferred (fully saturated) specifications, a one-standard deviation increase in our base school quality measure is associated with a 0.10 standard deviation increase in standardized test scores and a 4.8 percentage point increase in four-year college enrollment. Higher test score value-added schools increase college enrollment across multiple margins -- lower-ability students move from no college to two-year colleges while higher ability students move from two-year to four-year colleges. Notably, most of the variation in college enrollment value-added is not explained by test score value-added, suggesting policies that focus solely on test scores miss important components of school effectiveness. Finally, using school-level survey results, we show that value-added models of school quality are highly correlated with measures of school climate, teacher and staff quality, and counseling support within the school.
 
-**The Transition to College for Gender and Sexual Minority Youth** <br> <sup>(with Alexandria Hurtt, Michal Kurlaender, Kairo Weber, and Baiyu Zhou)</sup>
+**The Transition to College for Gender and Sexual Minority Youth** (Under Review) <br> <sup>(with Alexandria Hurtt, Michal Kurlaender, Kairo Weber, and Baiyu Zhou)</sup>  
 
 
 

@@ -7,9 +7,17 @@ title: CV
 ---
 
 
-If the embedded PDF is not displaying properly, please
-<a href="https://chesun.github.io/assets/CV_Christina.pdf" target="_blank">click here to open it in a new tab.</a>
+{% assign cv = '/assets/CV_Christina.pdf' | relative_url %}
 
-<object data="./assets/CV_Christina.pdf" type="application/pdf" frameborder="0" width="100%" height="600" style="padding: 20px;">
-  <embed src="./assets/CV_Christina.pdf" style="overflow: scroll;" width="80%" height="90%" type="application/pdf" />
-</object>
+<div style="border:0; padding: 20px 0;">
+  <iframe
+    src="{{ cv }}"
+    width="100%"
+    height="700"
+    style="border:0;"
+    loading="lazy">
+  </iframe>
+  <p style="margin-top:0.5rem;">
+    If the PDF doesn’t display, <a href="{{ cv }}" target="_blank" rel="noopener">open it in a new tab</a>.
+  </p>
+</div>

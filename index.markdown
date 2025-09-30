@@ -4,15 +4,21 @@
 title: About Me
 layout: page
 toc: false
+hide_hero: true
+
 ---
+<img src="{{ '/assets/photos/headshot.jpg' | relative_url }}"
+     alt="Christina Sun headshot"
+     style="float:right; width:400px; margin:0 0 1rem 1.25rem; border-radius:8px;"
+     loading="lazy">
 
-Welcome! My name is Christina Sun, and I am a PhD candidate in Economics and current job market candidate at University of California, Davis. 
+Welcome! My name is Christina (Che) Sun, and I am a PhD candidate in Economics and current job market candidate at University of California, Davis. 
 
-I am an applied microeconomist studying issues in the labor market and public education utilizing both large administrative datasets and controlled experiments in the laboratory. My current behavioral and experimental research studies how endogeneity in information acquisition leads to persistent belief bias and labor market discrimination. My current work in education includes studying the peer effects of immigrant students on the long-run outcomes of native-born students in Texas, as well as the long-run value added of public high schools in California. 
+I am an applied microeconomist studying issues in the labor market and public education. My research utilizes both large administrative datasets with applied microeconometric methods as well as controlled experiments in the laboratory. My current behavioral and experimental research studies how endogeneity in information acquisition leads to persistent belief bias and labor market discrimination. My current work in education includes studying the peer effects of immigrant students on the long-run outcomes of native-born students in Texas, as well as the long-run value added of public high schools in California. 
 
 
 ## Research Interests
-Behavioral and experimental economics, applied microeconomics, labor economics, and economics of education.
+Behavioral and experimental economics, labor economics, and economics of education.
 
 
 ## Contact
