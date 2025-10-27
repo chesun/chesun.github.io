@@ -31,7 +31,7 @@ We estimate high school impacts on test score performance, post-secondary enroll
 
 Recent evidence has shown that revealing incentives during belief elicitation might negatively impact truth telling, even if the elicitation mechanism is theoretically incentive compatible. In this project, I study the effect of quantitative incentive information on truth telling in the Becker-DeGroot-Marschak (BDM) belief elicitation mechanism. Subjects guess the probability of selecting a red urn out of 10 urns of colors red and blue, where the number of urns of each color is known. Results show that in the treatment where subjects are shown full quantitative incentives, the rate of false reports is around 10 percentage points higher than in the treatment where no quantitative incentives are shown. This higher rate of false reports is driven by subjects who misunderstood the incentives. Given that BDM belief elicitation is particularly difficult to explain and implement, this result shows a potentially simpler and more practical way of eliciting beliefs while maintaining quality of data.
 
-**Immigrant Peers and the Long-Run Outcomes of US-Born Students** <br><sup>(with Briana Ballis and Derek Rury) </sup>
+**Immigrant Peers and the Long-Run Outcomes of US-Born Students** (Draft Coming Soon) <br><sup>(with Briana Ballis and Derek Rury) </sup>
 
 Debate persists over the impact of immigrant peers on U.S.-born students, with mixed findings that likely reflect differences in local context, policy responses, and non-random exposure. We construct a novel longitudinal dataset of Texas public school students and use family fixed effects to address selection bias. We first document sorting: students initially exposed to more immigrant peers are more likely to move to schools with fewer immigrants, underscoring the importance of addressing endogenous mobility. We find small long-run effects: immigrant exposure has no impact on college completion or employment, and small negative effects on academic achievement and college enrollment. Once we adjust for correlated peer characteristics—such as poverty and English-learner status—these negative effects attenuate or reverse. Heterogeneity analyses show that exposure to higher-income and Asian immigrant peers consistently generates positive spillovers. Overall, after conditioning on background characteristics, effects of immigrant exposure are modest and often neutral or beneficial, suggesting that compositional disadvantage - and not immigrant status per se - drives observed negative effects.
 
@@ -41,20 +41,9 @@ Debate persists over the impact of immigrant peers on U.S.-born students, with m
 
 ## Policy Reports and Briefs
 
-**Transition to College: Voices from the Class of 2023.** *Policy Analysis for California Education* <br> <sup> (with Michal Kurlaender, Alexandria Hurtt, and Baiyu Zhou)</sup> 
+**<a href="https://edpolicyinca.org/publications/transition-college" target="blank">Transition to College: Voices from the Class of 2023</a>** *Policy Analysis for California Education* <br> <sup> (with Michal Kurlaender, Alexandria Hurtt, and Baiyu Zhou)</sup> 
 
-[<ins><a href="https://edpolicyinca.org/publications/transition-college" target="blank">Report</a></ins>]
+**<a href="https://c2c.ca.gov/wp-content/uploads/2025/02/C2C-Student-Experience-Report-2024-Academic-Year.pdf" target="blank">California Cradle-to-Career Data System 2024 Student Experience Report</a>** <br><sup> (with Jacob Jackson, Michal Kurlaender, Stephanie Luna-Lopez, Judy Chan, and Elizabeth Pierotti)</sup> 
 
 
-This brief examines the experiences of California high school seniors from the graduating class of 2023, offering insights into their preparation, plans, and concerns for college prior to enrollment. Drawing on results from a large-scale survey of seniors, the findings reveal important variation in students’ secondary school experiences and their plans for college, particularly by race/ethnicity and gender identity. As students’ experiences in high school influence concerns about their college futures, these results represent an important marker of what college going may look like for future graduating cohorts and can help policymakers and practitioners better understand the context of students’ postsecondary decisions and pathways.
-
-**California Cradle-to-Career Data System 2024 Student Experience Report** <br><sup> (with Jacob Jackson, Michal Kurlaender, Stephanie Luna-Lopez, Judy Chan, and Elizabeth Pierotti)</sup> 
-
-[<ins><a href="https://c2c.ca.gov/wp-content/uploads/2025/02/C2C-Student-Experience-Report-2024-Academic-Year.pdf" target="blank">Report</a></ins>]
-
-In spring 2024, the California Education Lab at the University of California, Davis, partnered with the California Cradle-to-Career Data System (C2C)
-and the California Student Aid Commission to document the experience of high school seniors. We document students' plans after high school, their  experiences with the FAFSA or CADAA and with college applications, their attitudes toward college, their experiences in high school, and their expectations for their college experience.
-
-**Applying for Financial Aid: Lessons from California's 2024 High School Seniors**<br><sup> (with Jacob Jackson, Michal Kurlaender, Stephanie Luna-Lopez, Jessica Moldoff, and Ryan Fuller)</sup> 
-
-[<ins><a href="https://www.csac.ca.gov/sites/default/files/2025-04/csac_2024_survey_report.pdf">Report</a></ins>]
+**<a href="https://www.csac.ca.gov/sites/default/files/2025-04/csac_2024_survey_report.pdf" target="blank">Applying for Financial Aid: Lessons from California's 2024 High School Seniors</a>**<br><sup> (with Jacob Jackson, Michal Kurlaender, Stephanie Luna-Lopez, Jessica Moldoff, and Ryan Fuller)</sup> 
