@@ -16,7 +16,7 @@ One of my primary goals is to make economic theory accessible and relevant by co
 
 As an educator, I believe my role is to guide students to learn how to learn, through the critical examination their learned knowledge and cultivation of critical thinking skills.  By developing assignments and exams that encourage deeper analysis and problem-solving, I help students develop critical thinking skills that will serve them not only in their academic journey, but also in their personal and civic life. Ultimately, my teaching philosophy is driven by the desire to cultivate an environment where all students can thrive and develop the tools they need to succeed beyond the classroom.
 
-[<ins><a href="assets/Teaching Statement.pdf" target="_blank">Teaching Statement</a></ins>]
+[<ins><a href="https://chesun.github.io/assets/documents/Teaching_Statement_Sun.pdf" target="_blank">Teaching Statement</a></ins>]
 
 ## Teaching Experience
 
@@ -36,7 +36,7 @@ As an educator, I believe my role is to guide students to learn how to learn, th
 ## Student Evaluations
 
 
-Here are some excerpts from student comments in teaching evaluations. For a complete history of student teaching evaluations from my time teaching at UC Davis please <a href="https://chesun.github.io/assets/StudentEval_InstructorSummaries.pdf" target="_blank">click here.</a>
+Here are some excerpts from student comments in teaching evaluations. For a complete history of student teaching evaluations from my time teaching at UC Davis please <a href="https://chesun.github.io/assets/documents/StudentEval_InstructorSummaries.pdf" target="_blank">click here.</a>
 
 
 *"Christina was amazing! Great at presenting complex information in an easy manner."*

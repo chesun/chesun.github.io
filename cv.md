@@ -9,7 +9,7 @@ permalink: /cv/
 ---
 
 
-{% assign cv = '/assets/CV_Christina.pdf' | relative_url %}
+{% assign cv = '/assets/documents/Christina_Sun_CV.pdf' | relative_url %}
 
 <div style="border:0; padding: 20px 0;">
   <iframe
