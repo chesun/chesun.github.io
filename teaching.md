@@ -10,7 +10,7 @@ permalink: /teaching/
 
 ## Teaching Philosophy
 
-My teaching philosophy is rooted in the belief that every student belongs in the classroom and has the potential to succeed. I view my role as a teacher as one of guiding students toward realizing their own potential by helping them engage with learning in a way that empowers them to think independently and become lifelong learners. To achieve this, I focus on fostering an inclusive and supportive learning environment where all students feel welcome and valued.
+My teaching philosophy is rooted in the belief that every student belongs in the classroom and has the potential to succeed. I see it as my responsibility to help students realize their own potential and empower them to become independent thinkers and lifelong learners. To achieve this, I focus on fostering an inclusive and supportive learning environment where all students feel welcome and valued.
 
 One of my primary goals is to make economic theory accessible and relevant by connecting concepts to real-world contexts. This helps students see how abstract ideas can be applied practically, allowing them to grasp the big picture and appreciate the relevance of what they are learning. By illustrating the importance of economics in everyday life, I aim to inspire curiosity and critical thinking.
 
@@ -33,7 +33,7 @@ As an educator, I believe my role is to guide students to learn how to learn, th
  - Economics of International Immigration, Fall 2019
 
 
-## Student Evaluations
+## Student Testimonies
 
 
 Here are some excerpts from student comments in teaching evaluations. For a complete history of student teaching evaluations from my time teaching at UC Davis please <a href="https://chesun.github.io/assets/documents/StudentEval_InstructorSummaries.pdf" target="_blank">click here.</a>
