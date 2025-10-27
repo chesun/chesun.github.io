@@ -4,7 +4,7 @@
 title: About Me
 layout: page
 toc: false
-hide_hero: true
+# hide_hero: true
 
 ---
 <img src="{{ '/assets/photos/headshot.jpg' | relative_url }}"
