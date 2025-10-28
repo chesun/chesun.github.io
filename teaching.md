@@ -10,11 +10,7 @@ permalink: /teaching/
 
 ## Teaching Philosophy
 
-My teaching philosophy is rooted in the belief that every student belongs in the classroom and has the potential to succeed. I see it as my responsibility to help students realize their own potential and empower them to become independent thinkers and lifelong learners. To achieve this, I focus on fostering an inclusive and supportive learning environment where all students feel welcome and valued.
-
-One of my primary goals is to make economic theory accessible and relevant by connecting concepts to real-world contexts. This helps students see how abstract ideas can be applied practically, allowing them to grasp the big picture and appreciate the relevance of what they are learning. By illustrating the importance of economics in everyday life, I aim to inspire curiosity and critical thinking.
-
-As an educator, I believe my role is to guide students to learn how to learn, through the critical examination their learned knowledge and cultivation of critical thinking skills.  By developing assignments and exams that encourage deeper analysis and problem-solving, I help students develop critical thinking skills that will serve them not only in their academic journey, but also in their personal and civic life. Ultimately, my teaching philosophy is driven by the desire to cultivate an environment where all students can thrive and develop the tools they need to succeed beyond the classroom.
+I see teaching as a responsibility to help students realize their potential and to empower them to become independent thinkers and lifelong learners. I teach with three core commitments: build an inclusive classroom where every student feels seen, engage students through active learning, and ground decisions in learning research. My goal is for students to connect theory to the world they live in, practice rigorous analysis, and leave confident that they belong in economics.
 
 [<ins><a href="https://chesun.github.io/assets/documents/Teaching_Statement_Sun.pdf" target="_blank">Teaching Statement</a></ins>]
 
@@ -22,7 +18,8 @@ As an educator, I believe my role is to guide students to learn how to learn, th
 
 ### Instructor of Record at University of California, Davis
 
-  - Principles of Microeconomics, Summer 2022 & Summer 2023
+  - Principles of Microeconomics, Summer 2023 
+  - Principles of Microeconomics, Summer 2022
 
 ### Teaching Assistant at University of California, Davis
 
