@@ -10,9 +10,9 @@ permalink: /teaching/
 
 ## Teaching Philosophy
 
-I see teaching as a responsibility to help students realize their potential and to empower them to become independent thinkers and lifelong learners. I teach with three core commitments: build an inclusive classroom where every student feels seen, engage students through active learning, and ground decisions in learning research. My goal is for students to connect theory to the world they live in, practice rigorous analysis, and leave confident that they belong in economics.
+I see teaching as a responsibility to help students realize their potential and to empower them to become independent thinkers and lifelong learners. I teach with three core commitments: build an inclusive classroom where every student feels seen, engage students through active learning, and ground decisions in research based teaching methods. My goal is for students to connect theory to the world they live in, practice rigorous analysis, and leave confident that they belong in economics.
 
-[<ins><a href="https://chesun.github.io/assets/documents/Teaching_Statement_Sun.pdf" target="_blank">Teaching Statement</a></ins>]
+<ins><a href="https://chesun.github.io/assets/documents/teaching_statement_Sun.pdf" target="_blank">**Teaching Statement**</a></ins>
 
 ## Teaching Experience
 
