@@ -14,14 +14,18 @@ I see teaching as a responsibility to help students realize their potential and 
 
 ### <ins><a href="https://chesun.github.io/assets/documents/teaching_statement_Sun.pdf" target="_blank">Teaching Statement</a></ins>
 
-## Teaching Experience
 
-### Instructor of Record at University of California, Davis
+
+## Teaching Portfolio
+
+### Teaching Experience
+
+#### Instructor of Record at University of California, Davis
 
   - Principles of Microeconomics, Summer 2023 
   - Principles of Microeconomics, Summer 2022
 
-### Teaching Assistant at University of California, Davis
+#### Teaching Assistant at University of California, Davis
 
  - Behavioral Economics, Spring 2023
  - Principles of Microeconomics, Spring 2020
@@ -29,15 +33,13 @@ I see teaching as a responsibility to help students realize their potential and 
  - Economics of Labor Markets, Summer 2020
  - Economics of International Immigration, Fall 2019
 
-## Teaching Portfolio
-
 ### Course Design
 Here you can find some materials from my Principles of Microeconomics course in summer 2023, which I designed from the ground up. 
-- <a href="https://chesun.github.io/assets/documents/teaching_portfolio/econ_irl_project.pdf" target="_blank">Course Syllabus</a>
+- <a href="https://chesun.github.io/assets/documents/teaching_portfolio/syllabus_ecn1a_summer_2023.pdf" target="_blank">Course Syllabus</a>
 - <a href="https://chesun.github.io/assets/documents/teaching_portfolio/how_to_succed_in_ecn_1a.pdf" target="_blank">How to Succeed in ECN 1A (Student Handout)</a>
-- <a href="https://chesun.github.io/assets/documents/teaching_portfolio/syllabus_ecn1a_summer_2023.pdf" target="_blank">EconIRL (Capstone Project)</a>
+- <a href="https://chesun.github.io/assets/documents/teaching_portfolio/econ_irl_project.pdf" target="_blank">EconIRL (Capstone Project)</a>
 
-## Student Testimonies
+### Student Testimonies
 
 
 Here are some excerpts from student comments in teaching evaluations. For a complete history of student teaching evaluations from my time teaching at UC Davis please <a href="https://chesun.github.io/assets/documents/StudentEval_InstructorSummaries.pdf" target="_blank">click here.</a>
