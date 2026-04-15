@@ -27,15 +27,15 @@ We estimate high school impacts on test score performance, post-secondary enroll
 
 ## Work in Progress
 
-**Behavioral Incentive Compatibility of BDM Belief Elicitation**
 
-Recent evidence has shown that revealing incentives during belief elicitation might negatively impact truth telling, even if the elicitation mechanism is theoretically incentive compatible. In this project, I study the effect of quantitative incentive information on truth telling in the Becker-DeGroot-Marschak (BDM) belief elicitation mechanism. Subjects guess the probability of selecting a red urn out of 10 urns of colors red and blue, where the number of urns of each color is known. Results show that in the treatment where subjects are shown full quantitative incentives, the rate of false reports is around 10 percentage points higher than in the treatment where no quantitative incentives are shown. This higher rate of false reports is driven by subjects who misunderstood the incentives. Given that BDM belief elicitation is particularly difficult to explain and implement, this result shows a potentially simpler and more practical way of eliciting beliefs while maintaining quality of data.
 
 **Immigrant Peers and the Long-Run Outcomes of US-Born Students** (Draft Coming Soon) <br><sup>(with Briana Ballis and Derek Rury) </sup>
 
 Debate persists over the impact of immigrant peers on U.S.-born students, with mixed findings that likely reflect differences in local context, policy responses, and non-random exposure. We construct a novel longitudinal dataset of Texas public school students and use family fixed effects to address selection bias. We first document sorting: students initially exposed to more immigrant peers are more likely to move to schools with fewer immigrants, underscoring the importance of addressing endogenous mobility. We find small long-run effects: immigrant exposure has no impact on college completion or employment, and small negative effects on academic achievement and college enrollment. Once we adjust for correlated peer characteristics—such as poverty and English-learner status—these negative effects attenuate or reverse. Heterogeneity analyses show that exposure to higher-income and Asian immigrant peers consistently generates positive spillovers. Overall, after conditioning on background characteristics, effects of immigrant exposure are modest and often neutral or beneficial, suggesting that compositional disadvantage - and not immigrant status per se - drives observed negative effects.
 
 **From the Playground to the Polls: Immigrant Peers and Political Outcomes of US-Born Student** <br><sup>(with Briana Ballis and Derek Rury) </sup>
+
+**Behavioral Incentive Compatibility of BDM Belief Elicitation**
 
 
 
