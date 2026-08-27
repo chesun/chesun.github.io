@@ -1,0 +1,10 @@
+# Coauthor links: any author whose lowercase last name matches a key below
+# becomes a link on the research page.
+# URLs from the advisor links previously on the About page.
+"carrell":
+  - firstname: ["Scott", "S.", "Scott E."]
+    url: https://faculty.econ.ucdavis.edu/faculty/scarrell/
+
+"kurlaender":
+  - firstname: ["Michal", "M."]
+    url: https://education.ucdavis.edu/faculty-profile/michal-kurlaender

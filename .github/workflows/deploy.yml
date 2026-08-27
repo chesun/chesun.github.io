@@ -1,32 +1,38 @@
-name: Deploy to GitHub Pages
+name: Deploy site
 
 on:
   push:
-    branches: ["main"]   # or master, whatever your main branch is
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4
-
-    - name: Setup Ruby (for Jekyll)
-      uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: 3.2  # specify the Ruby version you want
-
-    - name: Install dependencies
-      run: |
-        gem install bundler
-        bundle install
-
-    - name: Build the site
-      run: bundle exec jekyll build
-
-    - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v4
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./_site
+      - name: Checkout 🛎️
+        uses: actions/checkout@v4
+      - name: Setup Ruby 💎
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3.5"
+          bundler-cache: true
+      - name: Setup Node 🧰
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Build 🔧
+        run: |
+          export JEKYLL_ENV=production
+          bundle exec jekyll build
+      - name: Purge unused CSS 🧹
+        run: |
+          npm install -g purgecss
+          purgecss -c purgecss.config.js
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: _site

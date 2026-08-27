@@ -1,0 +1,37 @@
+{% comment %}
+  Renders a responsive masonry-style photo grid from a directory of images.
+  Usage: {% include photo_grid.liquid path='/assets/photos/zion/dec_2024/kolob' %}
+  Picks up every .jpeg/.jpg/.png static file whose path contains the given prefix.
+  Images are zoomable via the theme's medium-zoom integration.
+{% endcomment %}
+<div class="photo-grid">
+  {% for file in site.static_files %}
+    {% if file.path contains include.path %}
+      {% if file.extname == '.jpeg' or file.extname == '.jpg' or file.extname == '.png' %}
+        <img src="{{ file.path | relative_url }}" alt="Photo" class="photo-grid-item rounded z-depth-1" data-zoomable loading="lazy">
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+</div>
+<style>
+  .photo-grid {
+    column-count: 3;
+    column-gap: 12px;
+    margin-bottom: 1.5rem;
+  }
+  .photo-grid-item {
+    width: 100%;
+    margin-bottom: 12px;
+    display: block;
+  }
+  @media (max-width: 800px) {
+    .photo-grid {
+      column-count: 2;
+    }
+  }
+  @media (max-width: 500px) {
+    .photo-grid {
+      column-count: 1;
+    }
+  }
+</style>
