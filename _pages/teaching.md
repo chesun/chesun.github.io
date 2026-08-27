@@ -13,7 +13,31 @@ toc:
 
 I see teaching as a responsibility to help students realize their potential and to empower them to become independent thinkers and lifelong learners. I teach with three core commitments: build an inclusive classroom where every student feels seen, engage students through active learning, and ground decisions in research based teaching methods. My goal is for students to connect theory to the world they live in, practice rigorous analysis, and leave confident that they belong in economics.
 
-<a href="/assets/documents/teaching_statement_Sun.pdf" target="_blank" rel="noopener" class="btn btn-sm z-depth-0" role="button">Teaching Statement (PDF)</a>
+<a href="/assets/documents/teaching_statement_Sun.pdf" target="_blank" rel="noopener" class="doc-btn" role="button">Teaching Statement (PDF)</a>
+
+<style>
+  .doc-btn,
+  .doc-btn:hover {
+    text-decoration: none;
+  }
+  .doc-btn {
+    display: inline-block;
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--global-theme-color);
+    border: 1.5px solid var(--global-theme-color);
+    border-radius: 0.35rem;
+    padding: 0.4rem 1.1rem;
+    margin: 0.15rem 0.35rem 0.15rem 0;
+    transition:
+      background-color 0.15s,
+      color 0.15s;
+  }
+  .doc-btn:hover {
+    color: var(--global-bg-color);
+    background-color: var(--global-theme-color);
+  }
+</style>
 
 ## teaching experience
 
@@ -36,9 +60,9 @@ All courses taught at University of California, Davis.
 
 Here you can find some materials from my Principles of Microeconomics course in summer 2023, which I designed from the ground up.
 
-<a href="/assets/documents/teaching_portfolio/syllabus_ecn1a_summer_2023.pdf" target="_blank" rel="noopener" class="btn btn-sm z-depth-0" role="button">Course Syllabus</a>
-<a href="/assets/documents/teaching_portfolio/how_to_succed_in_ecn_1a.pdf" target="_blank" rel="noopener" class="btn btn-sm z-depth-0" role="button">How to Succeed in ECN 1A</a>
-<a href="/assets/documents/teaching_portfolio/econ_irl_project.pdf" target="_blank" rel="noopener" class="btn btn-sm z-depth-0" role="button">EconIRL Capstone Project</a>
+<a href="/assets/documents/teaching_portfolio/syllabus_ecn1a_summer_2023.pdf" target="_blank" rel="noopener" class="doc-btn" role="button">Course Syllabus</a>
+<a href="/assets/documents/teaching_portfolio/how_to_succed_in_ecn_1a.pdf" target="_blank" rel="noopener" class="doc-btn" role="button">How to Succeed in ECN 1A</a>
+<a href="/assets/documents/teaching_portfolio/econ_irl_project.pdf" target="_blank" rel="noopener" class="doc-btn" role="button">EconIRL Capstone Project</a>
 
 ## student testimonies
 
