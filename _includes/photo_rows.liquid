@@ -1,0 +1,35 @@
+{% comment %}
+  Justified-rows photo gallery (Flickr style): photos keep their aspect ratios and
+  are arranged into full-width rows of roughly equal height. Layout is computed from
+  _data/photo_dims.yml before any image loads, so nothing shifts while loading.
+  Usage: {% include photo_rows.liquid path='/assets/photos/web/zion/dec_2024/kolob' %}
+{% endcomment %}
+<div class="photo-rows">
+  {% for entry in site.data.photo_dims %}
+    {% if entry[0] contains include.path %}
+      {% assign d = entry[1] %}
+      {% assign ar = d.w | times: 1.0 | divided_by: d.h %}
+      <div class="photo-rows-item" style="flex-grow: {{ ar | times: 100 | round }}; flex-basis: {{ ar | times: 220 | round }}px; aspect-ratio: {{ d.w }} / {{ d.h }};">
+        <img src="{{ entry[0] | relative_url }}" width="{{ d.w }}" height="{{ d.h }}" alt="Photo" class="rounded" data-zoomable loading="lazy">
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+<style>
+  .photo-rows {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 1.5rem;
+  }
+  .photo-rows::after {
+    content: "";
+    flex-grow: 1000000;
+  }
+  .photo-rows-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+</style>

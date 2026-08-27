@@ -218,6 +218,11 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
+  # full-resolution photo originals: kept in the repo, but only the resized
+  # copies in assets/photos/web/ (plus assets/photos/previews/) are published
+  - assets/photos/desolation/
+  - assets/photos/sequoia/
+  - assets/photos/zion/
   - AGENTS.md
   - al-folio-upgrade-report.md
   - bin/
