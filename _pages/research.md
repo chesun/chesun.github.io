@@ -11,16 +11,16 @@ nav_order: 1
 
 <div class="publications">
 
-  <h2 class="bibliography">job market paper</h2>
+  <h2 class="research-section">job market paper</h2>
   {% bibliography --query @*[category=jmp] %}
 
-  <h2 class="bibliography">working papers</h2>
+  <h2 class="research-section">working papers</h2>
   {% bibliography --query @*[category=workingpaper] %}
 
-  <h2 class="bibliography">work in progress</h2>
+  <h2 class="research-section">work in progress</h2>
   {% bibliography --query @*[category=inprogress] %}
 
-  <h2 class="bibliography">policy reports and briefs</h2>
+  <h2 class="research-section">policy reports and briefs</h2>
   {% bibliography --query @*[category=policy] %}
 
 </div>
