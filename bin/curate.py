@@ -1,0 +1,150 @@
+#!/usr/bin/env python3
+"""Visual drag-and-drop curation for the photo galleries.
+
+Serves a local page showing every gallery's photos in their current order.
+Drag photos to reorder them, then click Save — the new order is written
+straight into _data/photo_dims.yml (which the site uses as display order).
+
+Run from the repo root:  python3 bin/curate.py
+Then open http://localhost:8765 and Ctrl-C here when done.
+No dependencies; uses only the Python standard library.
+"""
+
+import json
+import os
+import re
+from http.server import BaseHTTPRequestHandler, HTTPServer
+
+DIMS_FILE = "_data/photo_dims.yml"
+PORT = 8765
+
+PAGE = """<!doctype html>
+<html><head><meta charset="utf-8"><title>gallery curation</title>
+<style>
+  body { font-family: -apple-system, sans-serif; margin: 2rem; background: #fafafa; }
+  h2 { margin-top: 2.5rem; font-weight: 600; }
+  .grid { display: flex; flex-wrap: wrap; gap: 8px; }
+  .grid img { height: 140px; border-radius: 4px; cursor: grab; }
+  .grid img.dragging { opacity: 0.4; }
+  #save { position: fixed; top: 1rem; right: 1rem; font-size: 1rem; padding: 0.5rem 1.5rem;
+          background: #b509ac; color: #fff; border: 0; border-radius: 6px; cursor: pointer; }
+  #save:disabled { background: #999; }
+</style></head><body>
+<button id="save" disabled>Save order</button>
+<h1>drag photos to reorder, then Save</h1>
+<div id="galleries"></div>
+<script>
+const data = __DATA__;
+const container = document.getElementById('galleries');
+const saveBtn = document.getElementById('save');
+let dirty = false;
+
+for (const [dir, paths] of Object.entries(data)) {
+  const h = document.createElement('h2');
+  h.textContent = dir;
+  const grid = document.createElement('div');
+  grid.className = 'grid';
+  grid.dataset.dir = dir;
+  for (const p of paths) {
+    const img = document.createElement('img');
+    img.src = p;
+    img.dataset.path = p;
+    img.draggable = true;
+    grid.appendChild(img);
+  }
+  container.append(h, grid);
+}
+
+let dragged = null;
+document.addEventListener('dragstart', e => {
+  if (e.target.tagName !== 'IMG') return;
+  dragged = e.target;
+  e.target.classList.add('dragging');
+});
+document.addEventListener('dragend', e => {
+  if (dragged) dragged.classList.remove('dragging');
+  dragged = null;
+});
+document.addEventListener('dragover', e => {
+  if (!dragged) return;
+  const over = e.target;
+  if (over.tagName !== 'IMG' || over === dragged) return;
+  if (over.parentElement !== dragged.parentElement) return; // same gallery only
+  e.preventDefault();
+  const rect = over.getBoundingClientRect();
+  const before = e.clientX < rect.left + rect.width / 2;
+  over.parentElement.insertBefore(dragged, before ? over : over.nextSibling);
+  dirty = true;
+  saveBtn.disabled = false;
+});
+
+saveBtn.onclick = async () => {
+  const order = [];
+  for (const grid of document.querySelectorAll('.grid'))
+    for (const img of grid.querySelectorAll('img'))
+      order.push(img.dataset.path);
+  const r = await fetch('/save', {method: 'POST', body: JSON.stringify({order})});
+  saveBtn.textContent = r.ok ? 'Saved ✓' : 'Error!';
+  if (r.ok) { dirty = false; saveBtn.disabled = true;
+    setTimeout(() => saveBtn.textContent = 'Save order', 1500); }
+};
+window.onbeforeunload = () => dirty ? true : undefined;
+</script></body></html>
+"""
+
+
+def read_dims():
+    text = open(DIMS_FILE).read()
+    entries = re.findall(r'^"([^"]+)":\n  w: (\d+)\n  h: (\d+)', text, re.M)
+    return [(p, int(w), int(h)) for p, w, h in entries]
+
+
+class Handler(BaseHTTPRequestHandler):
+    def do_GET(self):
+        if self.path == "/":
+            entries = read_dims()
+            galleries = {}
+            for p, _, _ in entries:
+                galleries.setdefault(os.path.dirname(p), []).append(p)
+            body = PAGE.replace("__DATA__", json.dumps(galleries)).encode()
+            self.send_response(200)
+            self.send_header("Content-Type", "text/html; charset=utf-8")
+            self.end_headers()
+            self.wfile.write(body)
+        elif self.path.startswith("/assets/") and ".." not in self.path:
+            local = self.path.lstrip("/")
+            if os.path.exists(local):
+                self.send_response(200)
+                self.send_header("Content-Type", "image/jpeg")
+                self.end_headers()
+                self.wfile.write(open(local, "rb").read())
+            else:
+                self.send_error(404)
+        else:
+            self.send_error(404)
+
+    def do_POST(self):
+        if self.path != "/save":
+            return self.send_error(404)
+        length = int(self.headers["Content-Length"])
+        order = json.loads(self.rfile.read(length))["order"]
+        dims = {p: (w, h) for p, w, h in read_dims()}
+        if set(order) != set(dims):
+            return self.send_error(400, "order does not match known photos")
+        with open(DIMS_FILE, "w") as fh:
+            fh.write("# Generated by bin/generate_gallery.py — entry order is display order.\n")
+            fh.write("# Reorder visually with bin/curate.py.\n")
+            for p in order:
+                w, h = dims[p]
+                fh.write(f'"{p}":\n  w: {w}\n  h: {h}\n')
+        self.send_response(200)
+        self.end_headers()
+        print("Order saved.")
+
+    def log_message(self, *args):
+        pass
+
+
+if __name__ == "__main__":
+    print(f"Curate at http://localhost:{PORT} — Ctrl-C when done.")
+    HTTPServer(("127.0.0.1", PORT), Handler).serve_forever()
