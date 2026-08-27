@@ -1,12 +1,12 @@
 ---
 layout: page
 permalink: /resources/ucdavis-beamer-template/
-title: UC Davis Beamer Template
+title: UC Davis beamer template
 description:
 nav: false
 ---
 
-### A LaTeX Beamer Template for UC Davis
+### a LaTeX beamer template for UC Davis
 
 [Here's what it looks like.](/assets/resources/ucdavis_theme_test.pdf){:target="_blank"}
 

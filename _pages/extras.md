@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-## Photography
+## photography
 
 I am an avid photographer. I love landscape photography the most, but when I can't
 travel, I will also shoot personal projects in my local areas. My photographs
@@ -16,7 +16,7 @@ cover both wild and human-altered landscapes, and I shoot both digital and film.
 - [My landscape portfolio](https://christinasun.org/landscape){:target="_blank"}
 - [Personal projects](https://christinasunphoto.com/anthology){:target="_blank"}
 
-## Outdoors and Travel
+## outdoors and travel
 
 The great outdoors are where I feel closest to myself, and the wilderness holds a special place in my heart.
 Here's where I share pictures and stories from my recent hikes and backpacking trips.
@@ -74,7 +74,7 @@ Here's where I share pictures and stories from my recent hikes and backpacking t
   }
 </style>
 
-## Cycling
+## cycling
 
 I am also a cyclist who rides road and gravel. Feel free to check out my
 [Strava](https://www.strava.com/athletes/35905919){:target="_blank"} for my rides, and my

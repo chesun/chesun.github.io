@@ -28,14 +28,14 @@ Welcome! My name is Christina (Che) Sun, and I am a PhD candidate in Economics a
 
 I am an applied microeconomist studying issues in the labor market and public education. My research integrates controlled lab experiments and applied micro-econometric analysis of large administrative datasets. The goal of my research is to uncover cognitive and social mechanisms that contribute to persistent inequality, and to identify institutional factors that can promote equitable opportunity.
 
-#### Research Interests
+#### research interests
 
 Behavioral and experimental economics, labor economics, and economics of education.
 
-#### Contact
+#### contact
 
 Email: [ucsun@ucdavis.edu](mailto:ucsun@ucdavis.edu)
 
-#### Advisors
+#### advisors
 
 [Anujit Chakraborty](https://anujit.ucdavis.edu/about-me){:target="_blank"}, [Andrés Carvajal](https://economics.ucdavis.edu/people/andres-carvajal){:target="_blank"}, [Scott Carrell](https://faculty.econ.ucdavis.edu/faculty/scarrell/){:target="_blank"}, [Michal Kurlaender](https://education.ucdavis.edu/faculty-profile/michal-kurlaender){:target="_blank"}, [Arman Rezaee](https://armanrezaee.github.io){:target="_blank"}

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /resources/behavioral-study-guide/
-title: Study Guide for Behavioral Economics
+title: study guide for behavioral economics
 description:
 nav: false
 ---
