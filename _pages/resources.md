@@ -11,6 +11,8 @@ children:
     permalink: /resources/behavioral-study-guide/
   - title: UC Davis beamer template
     permalink: /resources/ucdavis-beamer-template/
+  - title: CEL resource hub
+    permalink: /cel_resource_hub/
 ---
 
 ## [study guide for behavioral economics](/resources/behavioral-study-guide/)
@@ -20,3 +22,7 @@ A study guide I made for Professor Chakraborty's Behavioral Economics course at 
 ## [UC Davis beamer template](/resources/ucdavis-beamer-template/)
 
 A LaTeX Beamer template for UC Davis.
+
+## [CEL resource hub](/cel_resource_hub/)
+
+A hub of code repositories and workflows I built at the California Education Lab (UC Davis).
