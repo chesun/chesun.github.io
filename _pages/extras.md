@@ -23,7 +23,7 @@ Here's where I share pictures and stories from my recent hikes and backpacking t
 
 <!-- Trip cards: any page under /extras/ with a `preview` front matter field gets a card here. -->
 <div class="trip-card-grid">
-  {% assign trip_pages = site.pages | where_exp: "p", "p.preview" | sort: "title" %}
+  {% assign trip_pages = site.pages | where_exp: "p", "p.preview" | sort: "card_date" | reverse %}
   {% for p in trip_pages %}
     {% if p.url contains '/extras/' %}
       <a href="{{ p.url | relative_url }}" class="trip-card-link">

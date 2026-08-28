@@ -6,6 +6,7 @@ description:
 nav: false
 preview: /assets/photos/previews/sequoia.jpg
 card_subtitle: November 2024
+card_date: 2024-11
 ---
 
 ## November 2024

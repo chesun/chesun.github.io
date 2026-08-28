@@ -5,7 +5,8 @@ title: Zion National Park
 description:
 nav: false
 preview: /assets/photos/previews/zion.jpg
-card_subtitle: December 2024
+card_subtitle: December 2024 & March 2025
+card_date: 2025-03
 ---
 
 ## winter holidays 2024
@@ -21,3 +22,9 @@ As I venture deeper into the canyon, the red sandstone walls start closing in. T
 ### The Watchman
 
 {% include photo_rows.liquid path='/assets/photos/web/zion/dec_2024/watchman' %}
+
+## march 2025
+
+I came back to Zion in March 2025. This time I day hiked the Left Fork of North Creek to the Subway, then backpacked up the West Rim — white slickrock high country, canyon views past Angels Landing, and a bighorn sheep to see me off.
+
+{% include photo_rows.liquid path='/assets/photos/web/zion/mar_2025' %}

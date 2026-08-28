@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Economics PhD Candidate at <a href="https://economics.ucdavis.edu/" target="_blank">University of California, Davis</a>
+subtitle: Economist at NERA Economic Consulting
 
 profile:
   align: right
@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! My name is Christina (Che) Sun, and I am a PhD candidate in Economics at University of California, Davis. **I am on the 2025-2026 job market**.
+Welcome! My name is Christina (Che) Sun. I am an economist at [NERA Economic Consulting](https://www.nera.com/){:target="_blank"} in Auckland, New Zealand. I received my PhD in Economics from the University of California, Davis in June 2026.
 
-I am an applied microeconomist studying issues in the labor market and public education. My research integrates controlled lab experiments and applied micro-econometric analysis of large administrative datasets. The goal of my research is to uncover cognitive and social mechanisms that contribute to persistent inequality, and to identify institutional factors that can promote equitable opportunity.
+I am an applied microeconomist studying the labor market and public education. My research combines controlled lab experiments with micro-econometric analysis of large administrative datasets, aiming to uncover the cognitive and social mechanisms that contribute to persistent inequality — and to identify the institutional factors that can promote equitable opportunity.
 
 #### research interests
 
@@ -35,7 +35,3 @@ Behavioral and experimental economics, labor economics, and economics of educati
 #### contact
 
 Email: [ucsun@ucdavis.edu](mailto:ucsun@ucdavis.edu)
-
-#### advisors
-
-[Anujit Chakraborty](https://anujit.ucdavis.edu/about-me){:target="_blank"}, [Andrés Carvajal](https://economics.ucdavis.edu/people/andres-carvajal){:target="_blank"}, [Scott Carrell](https://faculty.econ.ucdavis.edu/faculty/scarrell/){:target="_blank"}, [Michal Kurlaender](https://education.ucdavis.edu/faculty-profile/michal-kurlaender){:target="_blank"}, [Arman Rezaee](https://armanrezaee.github.io){:target="_blank"}
