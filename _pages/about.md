@@ -34,4 +34,4 @@ Behavioral and experimental economics, labor economics, and economics of educati
 
 #### contact
 
-Email: [ucsun@ucdavis.edu](mailto:ucsun@ucdavis.edu)
+Email: [christina.sun@nera.com](mailto:christina.sun@nera.com)
