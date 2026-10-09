@@ -13,6 +13,8 @@ children:
     permalink: /resources/ucdavis-beamer-template/
   - title: CEL resource hub
     permalink: /cel_resource_hub/
+  - title: cover letter utility
+    permalink: https://github.com/chesun/cover_letter_utility
 ---
 
 ## [study guide for behavioral economics](/resources/behavioral-study-guide/)
@@ -26,3 +28,7 @@ A LaTeX Beamer template for UC Davis.
 ## [CEL resource hub](/cel_resource_hub/)
 
 A hub of code repositories and workflows I built at the California Education Lab (UC Davis).
+
+## [cover letter utility](https://github.com/chesun/cover_letter_utility)
+
+A Python tool for the job market: write your cover letter once as a Word template, list your applications in a spreadsheet, and it generates a personalized letter for each one.
