@@ -15,7 +15,7 @@ A study guide I made for Professor Chakraborty's Behavioral Economics course at 
 
 A LaTeX Beamer template for UC Davis.
 
-## [CEL resource hub](/cel_resource_hub/)
+## [CEL resource hub](/cel_resource_hub/){:target="_blank" rel="noopener"}
 
 A hub of code repositories and workflows I built at the California Education Lab (UC Davis).
 
